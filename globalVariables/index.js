@@ -1,0 +1,1 @@
+global.CAPTCHA_SESSION = {};
